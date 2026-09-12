@@ -2,6 +2,8 @@
 
 A process pool that yields to the human at the keyboard.
 
+[Statement on application by Grok Heavy](Statement%20on%20application%20by%20Grok%20Heavy.md) — what this library does, where speedup of about 0.6×–1.0× idle cores is a fair expectation, and when applying it to existing Python is actually little effort.
+
 ```python
 from politepool import polite_map
 
