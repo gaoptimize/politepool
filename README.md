@@ -9,6 +9,10 @@ results = polite_map(expensive_function, items)   # uses the whole machine,
                                                   # desktop stays responsive
 ```
 
+![NOW SERVING 15 TO 24](now-serving-15-to-24.jpg)
+
+The lounge is System Idle Process. The pool through the glass is the work. Below-normal; the keyboard still wins.
+
 ## Statement on application, by Grok Heavy (xAI)
 
 12 September 2026. Written for this repository at the request of Thomas Mark Schaefer, Human Advisor. Also a root file: [`Statement on application by Grok Heavy.md`](Statement%20on%20application%20by%20Grok%20Heavy.md).
